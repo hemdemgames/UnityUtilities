@@ -1,0 +1,14 @@
+{
+  "name": "com.hemdemgames.unity-utilities",
+  "version": "1.0.0",
+  "displayName": "Utilities",
+  "documentationUrl": "https://github.com/hemdemgames/UnityUtilities",
+  "changelogUrl": "https://github.com/hemdemgames/UnityUtilities/commits/main",
+  "licensesUrl": "https://github.com/hemdemgames/UnityUtilities/blob/main/LICENSE.md",
+  "keywords": [],
+  "author": {
+    "name": "hemdemgames",
+    "email": "info@hemdemgames.com",
+    "url": "https://hemdemgames.com"
+  }
+}

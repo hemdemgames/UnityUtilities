@@ -1,0 +1,19 @@
+{
+    "name": "HemdemGames.Utilities.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:17a1a2b8bc14a4fdab80d372eabb50e2",
+        "GUID:7c18d19442b3249dcbd37ca199dc081b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
